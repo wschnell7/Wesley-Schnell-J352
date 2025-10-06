@@ -1,0 +1,40 @@
+/*
+MY COLOR PALETTE
+Color 1 - #011627
+Color 2 - #FF0022
+Color 3 - #41EAD4
+Color 4 - #FDFFFC
+Color 5 - #B91372
+*/
+
+body {
+    background-color: #41ead4;
+    text-align: center;
+}
+
+button {
+    background-color: #ff0022;
+    color: #41ead4;
+    text-transform: uppercase;
+    width: 200px;
+    padding: 10px;
+    margin-top: 50px;
+    border: none;
+    border-radius: 100px;
+}
+
+button:hover {
+    color: #011627;
+}
+
+h1 {
+    font-family: "Montserrat", sans-serif;
+}
+
+h2 {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 200;
+}
+button {
+    font-family: "Funnel Sans", sans-serif;
+}
