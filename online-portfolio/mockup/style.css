@@ -1,0 +1,35 @@
+@media screen {
+    img {
+        width: 250px;
+        margin: 80px 200px 0px 0px;
+        border: solid black;
+    }
+
+    h1 {
+        font-family: sans-serif;
+        font-weight: 700;
+    }
+    h2 {
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        text-transform: uppercase;
+        color: #44ccff;
+    }
+
+    button {
+        background-color: #44ccff;
+        border: none;
+        border-radius: 500px;
+        color: white;
+        text-align: center;
+        display: block;
+        margin-top: 20px;
+        margin-bottom: 20px;
+        margin: 20px auto 20px auto;
+    }
+
+    button:hover {
+        background-color: #7494ea;
+    }
+}
+
+@media 
